@@ -3,8 +3,11 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
-
-console.log("Hello");
+console.log("cool world!");
+console.log(2 + 2);
+console.log("hello " + "world!!!!!")
+console.log("hello", "people");
+console.log("\"Nevermore\"");
 
 /*  
 Next, PLAY! 
